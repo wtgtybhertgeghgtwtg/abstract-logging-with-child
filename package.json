@@ -29,7 +29,7 @@
     "pino": "^8.8.0",
     "prettier": "~3.0.0",
     "tsup": "^7.0.0",
-    "typescript": "~5.1.0"
+    "typescript": "~5.2.0"
   },
   "engines": {
     "node": ">=16"
